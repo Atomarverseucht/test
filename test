@@ -1,2 +1,6 @@
 //test
 //Amogus
+public int testeTest()
+{
+return 1;
+}
